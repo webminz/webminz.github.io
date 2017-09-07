@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Patrick Stuenkels Blog
 ---
 
 <div id="articles">
