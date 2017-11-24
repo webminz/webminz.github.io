@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Hyttekos"
+date:   2017-11-24
+image: posts/w7.jpg
+---
+
+<p class="intro"><span class="dropcap">W</span> inter is coming ;-) Ok, to be honest: It is already here! As It is nearly December (exactly 30 days until Christmas), and the temperatures in Bergen have become a lot colder.
+</p>
+
+So, i decided to write about two really Norwegian winter activities:
+
+- Skiing
+- and Cabin trips.
+
+And in the best case you combine both of these things. 
+So did I last weekend when I joined a trip, organized by [BSI Friluft](https://bsifriluft.no/).
+BSI (_Bergen StudentIdrettslag_) roughly translates to _Bergen student sports club_, which is a kind of a sports club primarily targeted at students, but also available for non-students. 
+They have several groups for different kinds of sports and of course there is group for the Norwegian **Friluftsliv** as well, i.e. covering climbing, hiking, skiing or just being outdoors.
+The great thing about this particular group, of course besides nice people and great trip offers, is that they own a cabin somewhere in the wilderness besides the railway track between Oslo and Bergen. 
+The exact stop i called [Hallingsskeid](https://www.google.no/maps/place/Hallingskeid/@60.66794,7.2503659,17z/). 
+It is two and a half hours from Bergen and when you embark there, you will find pretty much nothing more then a lonely waiting room.
+The picture below might give an impression.
+
+<figure>
+	<img src="{{ '/assets/img/posts/w4.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption><em>Hallingsskeid</em> station.</figcaption>
+</figure>
+
+Behind this waiting room you will find yourself pretty much in the middle of nowhere. 
+There are only a handful of cabins, sparsely distributed over the place and of course fabulous nature.
+The last few weeks have been pretty rough winter weather been there, which transformed the landscape into an iconic winter wonderland.
+
+<figure>
+	<img src="{{ '/assets/img/posts/w6.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>winter wonder land</figcaption>
+</figure>
+
+A great place to put on your _Fjellski_ (a combination between a classic "Langlaufski" and an alpine "carving" ski) and walk up the next hill.
+When you reach the top, you eat your sandwich (which is very likely frozen in the meantime) and eat chocolate (usually Kvikk Lunsj, which is a Norwegian variant of Kit Kat and is beloved from every Norwegian).
+
+<figure>
+	<img src="{{ '/assets/img/posts/w1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>At the top</figcaption>
+</figure>
+
+To get back down into the valley you remove the skins from your skis, which helped you to get up.
+Riding _Fjellski_ is actually pretty hard, even if you are used to classic alpine skiing. 
+You don't have a binding or solid boots, which gives you control over the ski. 
+The boots you are using are basically regular hiking boots, which contain a tiny joint next to your toes.
+To safely get down the mountain, you need the so called _Telemark_ technique.
+Of course I wasn't aware of this technique, therefore I had a lot of face plants, which hasn't been that bad though because landing in the snow was pretty soft.
+In any case it was a lot of fun :)
+
+<figure>
+	<img src="{{ '/assets/img/posts/w2.jpg' | prepend: site.baseurl }}" alt=""> 
+</figure>
+<figure>
+	<img src="{{ '/assets/img/posts/w3.jpg' | prepend: site.baseurl }}" alt=""> 
+</figure>
+
+After a long day of skiing, you of course have to sleep and eat somewhere.
+This is were the cabin comes into the game.
+The cabin is a really Norwegian thing and can be seen as simplified house, i.e. it is a lot smaller, it has no electricity, no running water, no central heating and if you have to go to the toilet, you'll have to do this on a pit latrine.
+I just lacks all the "benefits" of civilization.
+
+Thus, the first time you reach your cabin it is horribly cold.
+So, you will have to make a fire first.
+Afterwards, if you need water to drink, clean or cook, you of course have to melt some snow first.
+Furthermore a head lamp is mandatory otherwise you won't find anything, as sunshine hours are not that long in the north in the winter.
+Finally, if you after dinner have to relief yourself, make sure to plan a lit ahead, as the latrine is usually 50-100 meters away.
+Assuming you have fresh snow reaching the height of your knees, this walk might take some time.
+
+<figure>
+	<img src="{{ '/assets/img/posts/w7.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>The BSI Friluft cabin <em>Krekelingbu</em></figcaption>
+</figure>
+
+So, you might ask: Why should one voluntarily do this?
+Because it is cosy (our _koselig_ as the Norwegians would say).
+It is actually really relaxing to be away from civilization for a while, sitting around the oven, drinking maybe a glass of wine and just be happy that you don't have to be outside ;-)
+The concrete word describing this feeling is _hyttekos_.
+
+<figure>
+	<img src="{{ '/assets/img/posts/w5.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Hyttekos</figcaption>
+</figure>
+
+
+So, this was a little introduction into typical activities in the Norwegian winter.
+Maybe some Norwegian reader could judge if this description is accurate :P
+
+Ah, not to forget: Each cabin needs a pair of really wooden old skis on the wall of course!
+
+The following music video from the Norwegian comedy duo _Ylvis_ (who are also from Bergen by the way), might explain the idea of the cabin (hytte) further: [Link](https://www.youtube.com/watch?v=ua1FAlHt_Ys)
+
+See you!
