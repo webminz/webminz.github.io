@@ -16,9 +16,68 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
     <!--[if IE 8]><link rel="stylesheet" href="{{ "/assets/css/ie.css" | prepend: site.baseurl }}"><![endif]-->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 
     <!-- Modernizr -->
     <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
 
     {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
+
+    <style>
+
+        .abouttheauthor {
+            -webkit-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+            box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);
+        }
+    
+    .abouttheauthor .abouttheauthor-text {
+        width: 80%;
+        display: inline-block;
+    }
+
+    .abouttheauthor .abouttheauthor-label {
+        margin: 0 0;
+        font-family: 'Pacifico', cursive;
+        font-size: larger;
+    }
+
+    .abouttheauthor .abouttheauthor-avatar {
+        border-radius: 100%;
+        width: 80px;
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 7px;
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+
+    .abouttheauthor ul.abouttheauthor-social {
+        list-style: none;
+    }
+
+    .abouttheauthor .abouttheauthor-social a {
+        color: black;
+    }
+    
+    .abouttheauthor .abouttheauthor-social .icon {
+        text-decoration: none;
+        border-bottom: none;
+        position: relative;
+    } 
+
+    .abouttheauthor .abouttheauthor-social li {
+        display: inline-block;
+        padding: 0 1em 0 0;
+    }
+
+    .abouttheauthor .abouttheauthor-social .icon:before {
+        font-family: 'Font Awesome 5 Free';
+        display: inline-block;
+        font-style: normal;
+    }
+
+        
+    </style>
 </head>
