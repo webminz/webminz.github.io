@@ -6,7 +6,7 @@ permalink: /fgp/
 
 <div id="fgp">
     <h1 class="pageTitle">Modeldrevet Programvareutvikling (MDE)</h1>
-    <p class="intro">Så kult at du kom! <a href="http://localhost:8081/forskergrandprix"><strong>Her</strong> kan du programere ditt eget Pacman-spill!</a></p>
+    <p class="intro">Så kult at du kom! <a href="http://modelvmwebui-env.eba-fikfssic.us-east-2.elasticbeanstalk.com/forskergrandprix"><strong>Her</strong> kan du programere ditt eget Pacman-spill!</a></p>
     <p>
         <a href="https://en.wikipedia.org/wiki/Model-driven_engineering">Modeldrevet Programvareutvikling (MDE)</a> er et forskningsområdet innenfor Datateknologi.
         Målet med dette er å gjøre programvareutvikling enklere, tryggere og mer effektiv.
@@ -24,7 +24,7 @@ permalink: /fgp/
         Jeg har forberedet et verktøy (tenk kjøkkenredskap) som allerede inneholder domenespesifikke objekter av pacman verden (tenk ingredienser).
     </p>
     <p>
-    Du finner verktøyet bak lenken <a href="https:localhost:8081/forskergrandprix">her</a>!
+    Du finner verktøyet bak lenken <a href="http://modelvmwebui-env.eba-fikfssic.us-east-2.elasticbeanstalk.com/forskergrandprix">her</a>!
     </p>
     <p>
         Når du besøker den på første gang må du velge en brukernavn.
