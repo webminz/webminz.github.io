@@ -1,28 +1,21 @@
-title: Paddy i Norge
-description: Patrick Stuenkels Blog
+title: Patrick Stünkel
+description: Patrick Stünkel | Personal Homepage
 
 url: http://webminz.github.io
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+footer: yes
+footer_url: "https://github.com/webminz/webminz.github.io"
+footer_text: "(C) Patrick Stünkel | Jekyll theme was developed by https://github.com/ankitsultana (GNU GPL v3)"
 
-social:
-   github: webminz
-#   twitter: brianmaierjr
-#   facebook: brianmaierjr
-   email: webminz@gmail.com
 
-#google_analytics: "UA-58263416-1"
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Contact"
+   link: "contact"
+
