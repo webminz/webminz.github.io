@@ -5,17 +5,17 @@ is_contact: true
 
 ## E-Mail
 
-> past [at] hvl [dot] no
+> Patrick [dot] Stunkel [at] helse [minus] bergen [dot] no
 
 ---
 
-## Mailing Address
+## Visiting Address
 
-> Høgskulen på Vestlandet
+> Eitri Medical Incubator
 >
-> postboks 7030
+> Haukelandsbakken 31
 >
-> 5020 Bergen
+> 5009 Bergen
 >
 > NORWAY
 
