@@ -6,17 +6,17 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a Software Engineer and Computer Science Researcher. Currently, I am working as a postdoctoral researcher at the [University Hospital](https://helse-bergen.no/) in Bergen where I am working with [Digitization](https://geek-and-poke.com/geekandpoke/2016/12/12/hype-cycle) in [Pathology](https://en.wikipedia.org/wiki/Pathology). Concretely, we  are applying techniques such as [Process Mining](http://www.processmining.org/), [Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), and ML/AI to gain insights about Pathology workflows and in the long run reduce response times via intelligent utilization of resources and scheduling of activities.
+Hi! I am Computer Science Researcher working as an Associate Professor (or _Førsteamanuensis_ as they call it in Norwegian) at the [Western Norway University of Applied Sciences (short: HVL)](https://www.hvl.no/person/?user=Patrick.Stuenkel).
 
-Previously, I had been conducting research on _Software Interoperability_ and _Consistency Management_ while being employed as a PhD research fellow at the [Western Norway University of Applied Sciences (HVL)](https://www.hvl.no/) where I successfully defended my PhD on the _9th of February 2022_. My thesis openly accessible [here](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2837740).
+Simulataneously, I am also employed as a part-time researcher at the [University Hospital](https://helse-bergen.no/), where I am working on _workflow optimization_ in the context of a [Digitization](https://geek-and-poke.com/geekandpoke/2016/12/12/hype-cycle) project in [Pathology](https://en.wikipedia.org/wiki/Pathology), called [PiV](https://helse-bergen.no/piv).
 
+My PhD, I wrote on the topic of _Software Interoperability_ and _Consistency Management_. The thesis openly accessible [here](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2837740).
 
-Before coming to Norway, I have had positions as a software engineer at different companies in Germany.
-
+Before coming to Norway, I have had positions as a software engineer at different companies in Germany (insurance and output management).
 
 ## Research Interests
 
-My research interests span various domains of Computer Science and Software Engineering.
+My research interests span various domains of Computer Science and Software Engineering with a particular focus on applications in the health care domain.
 One of my main goals is to turn theoretical research results into practically relevant tools and methods in order to improve the quality of software products.
 My focus lies on the following areas:
 
@@ -37,6 +37,7 @@ For more publications, have a look at my [DBLP index](https://dblp.org/pid/222/4
 
 ## Current Projects
 
+- **PiV** Tools for process monitoring, simulations and resource planning based on raw information system event logs.
 - **CorrLang** A tool that facilitates system integration and/or heterogenous model management, based on a DSL for specifying semantic relationships among data models. [[github]](https://github.com/webminz/corr-lang) [[homepage]](https://www.corrlang.io)
 - **DELTA** A tool for database refactoring. [[publication]](https://www.researchgate.net/publication/320986991_DELTA_-_A_tool_for_database_refactoring)
 
